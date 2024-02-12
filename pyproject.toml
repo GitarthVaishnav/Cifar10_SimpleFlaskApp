@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cifar10_simple_flask_app"
+version = "0.1.0"
+description = "Flask App for CIFAR10 Classification"
+authors = ["Gitarth Vaishnav <Gitarth.Vaishnav@uts.edu.au>"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = ">=3.10, <3.12"
+flask = "^3.0.2"
+pillow = "^10.2.0"
+tensorflow = "^2.15.0"
+numpy = "^1.26.4"
+matplotlib = "^3.8.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
