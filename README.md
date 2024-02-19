@@ -149,14 +149,23 @@ Contributions make the open-source community thrive. Any contributions you make 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Your Email](mailto:your_email@example.com)
+Gitarth Vaishnav - [@GitarthVaishnav](https://linkedin.com/in/gitarthvaishnav)
+
+Email: Gitarthv@outlook.com | Gitarth.Vaishnav@uts.edu.au
+
+
+Github Link: [@GitarthVaishnav](https://github.com/GitarthVaishnav/)
 
 Project Link: [https://github.com/GitarthVaishnav/Cifar10_SimpleFlaskApp](https://github.com/GitarthVaishnav/Cifar10_SimpleFlaskApp)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/GitarthVaishnav/Cifar10_SimpleFlaskApp.svg?style=for-the-badge
